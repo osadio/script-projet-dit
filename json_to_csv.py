@@ -23,6 +23,6 @@ read_file.to_csv(csv_filepath, index=None, header=True)
 
 # Message
 print("success!")
-print(f"excel filepath : {excel_filepath}") 
+print(f"excel filepath : {json_filepath}") 
 print(f"csv filepath : {csv_filepath}")
 
